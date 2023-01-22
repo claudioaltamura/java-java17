@@ -9,6 +9,10 @@ java {
   targetCompatibility = JavaVersion.VERSION_17
 }
 
+tasks.withType<JavaCompile> {
+    options.compilerArgs.add("--enable-preview")
+}
+
 repositories {
     mavenCentral()
 }
@@ -19,3 +23,4 @@ dependencies {
 
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.8.2")
 }
+
