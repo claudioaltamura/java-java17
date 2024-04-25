@@ -9,4 +9,6 @@ Java 17 features
 
 Other features
 
-* Records
+* Records  
+* Switch expression enhancement
+* Text Block 
