@@ -6,3 +6,7 @@
 Java 17 features
 
 * sealed: designed inheritance
+
+Other features
+
+* Records
