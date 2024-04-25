@@ -1,4 +1,4 @@
-package de.claudioaltamura.java.java17.record;
+package de.claudioaltamura.java.java17.patternmatching;
 
 public class PatternMatchingExample {
 
