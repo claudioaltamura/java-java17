@@ -3,12 +3,14 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # java-java17
-Java 17 features
+## Java 17 features
 
 * sealed: designed inheritance
 
-Other features
+## Other features
 
 * Records  
+* String methods, transform
 * Switch expression enhancement
 * Text Block 
+* Teeing collector
