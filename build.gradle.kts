@@ -9,10 +9,6 @@ java {
   targetCompatibility = JavaVersion.VERSION_17
 }
 
-tasks.withType<JavaCompile> {
-    options.compilerArgs.add("--enable-preview")
-}
-
 repositories {
     mavenCentral()
 }
